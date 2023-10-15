@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Fikih MTs Bontouse Module App
+
+📚 "Fiqh Learning Module Web App: Dive into the world of Fiqh with this educational web application. Explore and study Islamic jurisprudence in a digital format. Built with React and styled using Tailwind CSS, it offers a user-friendly platform for in-depth learning of Fiqh principles and practices."
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
